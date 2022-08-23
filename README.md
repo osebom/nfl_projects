@@ -5,10 +5,7 @@ The first part of this series consisted of using OpenCV to crop a video around a
 For instance, the video below is the output of the script for the player with the label H27:
 
 
-
-https://user-images.githubusercontent.com/40761922/186257102-5ea2138b-2ea3-42d0-8809-60e39a2ef4c4.mp4
-
-
+https://user-images.githubusercontent.com/40761922/186257258-cd979b7d-98c8-4263-8c8a-68ad16d08c71.mov
 
 
 The second part consisted of using the MediaPipe API to create a real-time 3D coordinate plot of the player:
