@@ -8,7 +8,8 @@ For instance, the video below is the output of the script for the player with th
 
 
 
-https://user-images.githubusercontent.com/40761922/186254757-82cc45a4-0a20-407f-9e62-426a56574945.mp4
+https://user-images.githubusercontent.com/40761922/186255388-fc3414f4-ce70-4e92-a389-df12447242db.mp4
+
 
 The second part consisted of using the MediaPipe API to create a real-time 3D coordinate plot of the player:
 ![filename](https://user-images.githubusercontent.com/40761922/186255050-272db0fe-3c3b-4248-a2f9-560fee965c03.gif)
