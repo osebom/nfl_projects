@@ -6,9 +6,9 @@ For instance, the video below is the output of the script for the player with th
 
 
 
+https://user-images.githubusercontent.com/40761922/186257102-5ea2138b-2ea3-42d0-8809-60e39a2ef4c4.mp4
 
 
-https://user-images.githubusercontent.com/40761922/186255388-fc3414f4-ce70-4e92-a389-df12447242db.mp4
 
 
 The second part consisted of using the MediaPipe API to create a real-time 3D coordinate plot of the player:
